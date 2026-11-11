@@ -1,0 +1,6 @@
+{
+  "name": "متجر شوبيفاي المتكامل | Shopify Commerce",
+  "description": "منصة متجر إلكتروني متكاملة بمواصفات شوبيفاي تشمل واجهة متجر عصرية، سلة تسوق، بوابة دفع، ولوحة تحكم تاجر شاملة للطلبات والمنتجات والتقارير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
